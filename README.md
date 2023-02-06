@@ -14,14 +14,21 @@ Conocer las distintas características del campo magnético, y sus aplicaciones.
 
 **2. MARCO TEÓRICO (RESUMEN)**
  
-
+https://www.canva.com/design/DAFZMZ0UZ6s/GmaajcsaYaK-aGH4mUoxfg/view?utm_content=DAFZMZ0UZ6s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
 
 **RESUMEN CAPITULO - 13**
 
+[![1.jpg](https://i.postimg.cc/zDQcjV4b/1.jpg)](https://postimg.cc/XXwLN7j4)
 
+[![2.jpg](https://i.postimg.cc/MHft4mgc/2.jpg)](https://postimg.cc/m1RQ1CLR)
 
 **RESUMEN CAPITULO - 14**
 
+[![3.jpg](https://i.postimg.cc/nM8TtQt3/3.jpg)](https://postimg.cc/RJRw7hht)
+
+[![4.jpg](https://i.postimg.cc/bYGhpchn/4.jpg)](https://postimg.cc/w3dPQr3x)
+
+[![5.jpg](https://i.postimg.cc/HsX18wjs/5.jpg)](https://postimg.cc/BXSVd1xd)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
