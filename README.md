@@ -58,7 +58,7 @@ Vind=L(di/dt)
 
 (di/dt)=2000 A/s
 
-**6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10x10^-5 m2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2 x10^-6 H/m.
+**6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10x10^-5 m2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2 x10^-6 H/m.**
 
 L= (N^2µA/l)
 
@@ -69,7 +69,7 @@ N= (0.03*0.05/1.2 x10^6*10x10^5)^1/2
 N=3535.53 vueltas
 
 **8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
-La inductancia está directamente relacionada con la cantidad de vueltas de alambre elevada al cuadrado, por lo tanto, si se aumentan las vueltas la inductancia es mayor. Ejemplo:
+La inductancia está directamente relacionada con la cantidad de vueltas de alambre elevada al cuadrado, por lo tanto, si se aumentan las vueltas la inductancia es mayor. Ejemplo:**
 
 ![image](https://user-images.githubusercontent.com/94011974/185403890-6c62c947-c7fc-435e-9805-6126be120432.png)
 
@@ -87,7 +87,7 @@ L= [(700) ^2 (0.25 x10^-3) (1.96 x10^-5)]/ 0.015
 
 L= 160mH
 
-**10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4πx10^-6 H/m). Determine la inductancia de la bobina que se formó.
+**10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4πx10^-6 H/m). Determine la inductancia de la bobina que se formó.**
 
 ![image](https://user-images.githubusercontent.com/94011974/185403974-75cf1882-7a1f-4f48-83f2-a121da127e7c.png)
 
@@ -103,7 +103,7 @@ L=0.14mH
 
 SECCIÓN 13–3 Inductores en serie y en paralelo
 
-**12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?
+**12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?**
 
 Si están en serie 
 
@@ -123,7 +123,7 @@ L3=1/[(1/50)-(1/10)-(1/22)]
 
 L3=-7.97mH
 
-**14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
+**14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?**
 
 ![image](https://user-images.githubusercontent.com/94011974/185404027-9709eabe-cae2-4242-91bc-ebf515f5b6ea.png)
 
@@ -163,7 +163,7 @@ LT=0.52mH+1010µ
 
 LT=1.53mH
 
-**16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+**16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?**
 
 LT=1/[(1/L1)+(1/L2)]
 
@@ -171,7 +171,7 @@ L2=1/[(1/8)-(1/12)]
 
 L2=24mH
 
-**18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.
+**18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.**
 
 ![image](https://user-images.githubusercontent.com/94011974/185404086-3e37055b-f143-418d-b6a4-ba394e45667d.png)
 
@@ -205,7 +205,7 @@ LT=1.33mH+4mH=5.33mH
 
 SECCIÓN 13–4 Inductores en circuitos de cd
 
-**20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones
+**20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones**
 
 a) R=56Ω, L=50µH
 
@@ -219,7 +219,7 @@ c) R=22 kΩ, L=100 mH
 
 T=L/R=100mH/22kΩ=4.55µs
 
-*22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes: 
+**22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:**
 
 ![image](https://user-images.githubusercontent.com/94011974/185404173-6bf9060d-3f42-4708-b9a5-0c3baac41a20.png)
 
@@ -245,7 +245,7 @@ i=1.22mA[1-e^(-30µs/9.2µS)]
 
 i=1.2mA
 
-**24. Repita el problema 22 para los siguientes instantes:
+**24. Repita el problema 22 para los siguientes instantes:**
 
 (a) 65µs
 
@@ -265,7 +265,7 @@ i=1.22mA[e^(-85µs/9.2µS)]
 
 i=0.00012 mA
 
-**26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
+**26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?**
 
 ![image](https://user-images.githubusercontent.com/94011974/185404400-4cc8131e-596f-484c-94de-b6c69b0a71b2.png)
 
@@ -284,7 +284,7 @@ I= 10V/ 8.2 K ohm
 
 I= 1.21 m A
 
-**28. (a) ¿Cuál es la corriente en el inductor 1.0 ms después de que se cierra el interruptor en la figura 13-50?
+**28. (a) ¿Cuál es la corriente en el inductor 1.0 ms después de que se cierra el interruptor en la figura 13-50?**
 
 ![image](https://user-images.githubusercontent.com/94011974/185404492-5ec43551-924b-4af2-9236-8721156590b3.png)
 
@@ -310,7 +310,7 @@ Tabla = 0.99(70 m A)  = 0.07 m A
 
 SECCIÓN 13–5 Inductores en circuitos de ca
 
-**30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
+**30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.**
 
 ![image](https://user-images.githubusercontent.com/94011974/185404617-ff658784-5956-4939-af39-b3dee1319798.png)
 
@@ -340,7 +340,7 @@ C
 
 XL = 2pifl = 2pi ( 5000 Hz)( 700 µ H)= 21.99 ohm 
 
-**32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
+**32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?**
 
 ![image](https://user-images.githubusercontent.com/94011974/185404785-658a358c-255b-4e33-b8de-f3b94aa6d80d.png)
 
@@ -363,11 +363,209 @@ Como ya tenemos la corriente entonces
 Pr = I^2 XL = (23.5 k A)^2 (424 m Ohm) = 9964 VAR
 
 
-
 **EJERCICIOS CAPITULO - 14**
 
 **PROBLEMAS**
 
+**2. Determine el coeficiente de acoplamiento cuando LM =1 µH, L1 =8 µH, y L2 =2 µH.**
+
+LM =1 µH
+
+L1 =8 µH, y L2 =2 µH.
+
+Despejamos nuestra ecuación
+
+LM = k(L1L2)^(1/2)  
+
+K= LM/(L1L2)^(1/2)  
+
+K= 1 µH/(8 µH x 2 µH.)^(1/2)  
+
+K= 0.25
+
+**4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?**
+
+V sec = n VPrim
+
+V sec= 250 Vueltas *2 como es el doble
+
+Vsec = 500 vueltas
+
+SECCIÓN 14–3 Transformadores elevadores y reductores
+
+**6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?**
+
+720 V /240 V= 3
+
+3 ES LA RELACION DE VUELTAS
+
+**8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?**
+
+ n. Vprim = v
+ 
+10 V  prim = 60
+
+V prim = 6
+
+**10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?**
+
+nVpri = (0.2)1200V  = 240 V 
+
+**12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?**
+
+![image](https://user-images.githubusercontent.com/94011974/185405064-5c365cbc-494e-4853-84c8-a7b3c8d92036.png)
+
+A
+
+n = (RL /Rpri)^1/2
+
+n= (100)^1/2
+
+n=10 
+
+120(10) = 1.2 k V 
+
+B
+
+n = (RL /Rpri)^1/2
+
+n = (50)^1/2
+
+n= 7.07
+
+12(7.07)= 84.85 V 
+
+C 
+
+n = (RL /Rpri)^1/2
+
+n = 100
+
+100(16)= 1.5k V 
+
+**14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?**
+
+![image](https://user-images.githubusercontent.com/94011974/185405619-5887f821-d124-4a58-9f72-0c9feeb1457a.png)
+
+Isec = (1/n)*Ipri
+
+Isec = (1/3)*100mA = 33mA
+
+Rpri = 20V/0.1A = 200Ω
+
+Rpri = (1/n)*(1/n)*Rl
+
+Rl = Rpri/((1/n)*(1/n))
+
+Rl = 200Ω/((1/n)*(1/n)) = 1800Ω
+
+**16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?**
+
+![image](https://user-images.githubusercontent.com/94011974/185405681-e9aeeda8-c7c6-4004-8d72-6cf890025208.png)
+
+Rpri = (1/n)(1/n)
+
+Rl = (1/5)*(1/5)*(680) = 27.2 Ω
+
+Igualación de impedancia
+
+**18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Ω**
+
+![image](https://user-images.githubusercontent.com/94011974/185405774-11a01f14-afeb-4472-89ba-293de1f8a833.png)
+
+N= raiz(Rl/Rpri) = raiz(4/16) = 0.5
+
+**20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.**
+
+![image](https://user-images.githubusercontent.com/94011974/185405850-f55b0dbc-6f77-42cc-b503-b59cc8b4235e.png)
+
+Características de un transformador no ideal
+
+**22. ¿Cuál es la eficiencia del transformador en el problema 21?**
+
+Pentrada = 100W
+
+Psalidad = 94.5W
+
+n = (Psal/Pent)100%
+
+n = (100/94.5)100% = 94.5%
+
+**24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de
+ca. El voltaje secundario es de 600 V.**
+
+(a) ¿Cuál es la corriente máxima en la carga?
+
+ILi1 = Psec/Vsec = 5kVA/120 = 0.042kA = 42A
+
+ILi1 = Psec/Vsec = 5kVA/600 = 0.008kA = 8A
+ 
+La corriente máxima en la carga es de 42A
+
+(b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+
+Il1= 42A
+
+V=120
+
+Rli1=V/IL=120/42=2.86 Ω
+Il2=8A
+
+V=600V
+
+Rli2=V/IL=600/8=72.03 Ω
+
+El valor de RL mas pequeño es de 2.86 Ω
+
+**26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.**
+
+(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+
+Vsec=nVpri
+
+n=Vsec/Vpri=120V/2400V = 0.05
+
+(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+I=Psec/Vsec
+
+I=5kVA/2400V=0.002kA=2A
+
+Transformadores con tomas y devanados múltiples
+
+**28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario**
+
+![image](https://user-images.githubusercontent.com/94011974/185405949-c2f395cf-0239-4ca4-b026-2f0424aa760d.png)
+
+Vsec=nVpri
+
+n1=V1/Vpri=24V/12V=2
+
+n3=V1/Vpri=6V/12V=0.5
+
+n3=V1/Vpri=3V/12V=0.25
+
+**30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V**
+
+![image](https://user-images.githubusercontent.com/94011974/185406026-b7edd816-b3c5-421b-a079-fe86b5982568.png)
+
+Vsec=nVpri
+
+Vsec=(0.1)(240)=24V
+
+Vsec=(0.2)(240)=48V
+
+Vsec=(0.5)(240)=120V
+
+Vsec=(1)(240)=240V
+
+**32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?**
+
+Devanado primario abierto. Reemplace el transformador
+Si los cortocircuitos primarios, se extrae una corriente excesiva que potencialmente puede quemar la fuente y/o el transformador a menos que el primario esté protegido por fusible
+
+**34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?**
+
+Algunos de los devanados secundarios, pero no todos, están en cortocircuito o el voltaje primario es inferior al esperado.
 
 
 
