@@ -571,7 +571,7 @@ Algunos de los devanados secundarios, pero no todos, están en cortocircuito o e
 
 **4. VIDEO**
 
-
+https://youtu.be/pQ6d64QptZU 
 
 **5. CONCLUSIONES**
 
