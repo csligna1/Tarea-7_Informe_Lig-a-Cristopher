@@ -583,6 +583,3 @@ El funcionamiento de un transformador, es uno de los mayores usos que se les da 
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
-7. Rubrica
-
-![image](https://user-images.githubusercontent.com/94011974/168502638-68a88253-237f-494b-b87f-72ae3914cb18.png)
