@@ -576,10 +576,13 @@ Algunos de los devanados secundarios, pero no todos, están en cortocircuito o e
 **5. CONCLUSIONES**
 
 Mediante las aplicaciones de los inductores vistos en estos capítulos, se puede verificar el funcionamiento de los mismos en circuitos que produzcan sonidos, y su implicaión viene a darse al suprimir o eliminar los mismos, debido a su funcionamiento, incluso utilizando capacitores o reemplazandolos en el lugar de resistencias.
-El funcionamiento de un transformador, es uno de los mayores usos que se les da a lo que hoy conocemos como electricidad doméstica, debido a que los mismos, convierten un alto voltaje en un menor, o viceversa, utulizando el principio de los inductores, aliment
-
-ando la electricidad de los hogares.
-
+El funcionamiento de un transformador, es uno de los mayores usos que se les da a lo que hoy conocemos como electricidad doméstica, debido a que los mismos, convierten un alto voltaje en un menor, o viceversa, utulizando el principio de los inductores, alimentando la electricidad de los hogares.
 
 
 **6. BIBLIOGRAFÍA**
+
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+7. Rubrica
+
+![image](https://user-images.githubusercontent.com/94011974/168502638-68a88253-237f-494b-b87f-72ae3914cb18.png)
